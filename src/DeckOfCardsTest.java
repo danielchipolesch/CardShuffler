@@ -1,4 +1,3 @@
-
 public class DeckOfCardsTest {
 
 	public static void main(String[] args) {
@@ -12,5 +11,4 @@ public class DeckOfCardsTest {
 				System.out.println();
 		}
 	}
-
 }
